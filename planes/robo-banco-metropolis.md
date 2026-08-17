@@ -72,6 +72,7 @@ Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cif
 - _"Yo me encargo de Batman. Siempre me encargo de Batman."_ — Joker
 - _"Si Joker arruina otra misión, propongo que lo lancemos al volcán."_ — Magneto
 - _"Denegado. Por ahora."_ — Lex Luthor
+- _"Asegurar rueda de recambio"
 
 ## Conclusión
 
