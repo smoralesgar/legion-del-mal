@@ -6,6 +6,8 @@
 **Estado:** 🟡 Operativa con restricciones
 
 ### Puto Eclipse
+**Listado de desastres a crear**
+- Derretir retinas
 ---
 
 ## Descripción general
